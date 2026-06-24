@@ -1,0 +1,12 @@
+{
+  "name": "queuecure-ai",
+  "version": "1.0.0",
+  "description": "AI Powered Hospital Queue Management System",
+  "private": true,
+  "scripts": {
+    "backend": "cd backend && npm run dev",
+    "frontend": "cd frontend && npm run dev"
+  },
+  "author": "NANI PRABHAS",
+  "license": "MIT"
+}
