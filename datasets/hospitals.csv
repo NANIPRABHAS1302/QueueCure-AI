@@ -1,0 +1,6 @@
+hospitalName,address,city,state,contactNumber,email
+"General Hospital Clinic 1","145 Main St","New York","NY","+1-800-555-0001","contact@hospital1.com"
+"General Hospital Clinic 2","287 Main St","Los Angeles","CA","+1-800-555-0002","contact@hospital2.com"
+"General Hospital Clinic 3","598 Main St","Chicago","IL","+1-800-555-0003","contact@hospital3.com"
+"General Hospital Clinic 4","302 Main St","Houston","TX","+1-800-555-0004","contact@hospital4.com"
+"General Hospital Clinic 5","998 Main St","Phoenix","AZ","+1-800-555-0005","contact@hospital5.com"

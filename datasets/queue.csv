@@ -1,0 +1,6 @@
+tokenNumber,patientIndex,status,queuePosition,estimatedWaitTime
+1,"PAT-SYN-0005","WAITING",0,0
+2,"PAT-SYN-0001","WAITING",1,10
+3,"PAT-SYN-0003","WAITING",2,20
+4,"PAT-SYN-0002","CONSULTING",0,0
+5,"PAT-SYN-0004","COMPLETED",0,0

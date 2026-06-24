@@ -16,6 +16,10 @@ const startServer = async () => {
 
         await connectDB();
 
+        // Run dataset generation & seeding
+        const { generateAndSeed } = await import("./src/services/dataset/datasetService.js");
+        await generateAndSeed();
+
         const server = http.createServer(app);
 
         const io = new Server(server, {

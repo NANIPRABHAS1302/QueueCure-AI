@@ -1,0 +1,6 @@
+patientId,fullName,age,gender,phone,email,bloodGroup,address,symptoms,priority,status,tokenNumber,queuePosition,estimatedWaitTime
+"PAT-SYN-0001","Patricia Garcia",45,"Female","+1-900-555-0001","patient.1@gmail.com","A+","89 Oak Ave, Chicago","Chest pain","HIGH","WAITING",101,1,10
+"PAT-SYN-0002","David Miller",29,"Male","+1-900-555-0002","patient.2@gmail.com","O-","452 Oak Ave, New York","Fever","LOW","IN_QUEUE",102,2,20
+"PAT-SYN-0003","Elizabeth Davis",67,"Female","+1-900-555-0003","patient.3@gmail.com","B+","902 Oak Ave, Phoenix","Dizziness","MEDIUM","WAITING",103,3,30
+"PAT-SYN-0004","Richard Rodriguez",18,"Male","+1-900-555-0004","patient.4@gmail.com","AB+","12 Oak Ave, Dallas","Skin rash","LOW","IN_QUEUE",104,4,40
+"PAT-SYN-0005","Barbara Martinez",53,"Female","+1-900-555-0005","patient.5@gmail.com","O+","702 Oak Ave, Houston","Joint pain","EMERGENCY","WAITING",105,0,0

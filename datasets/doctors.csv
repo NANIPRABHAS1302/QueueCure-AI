@@ -1,0 +1,6 @@
+fullName,specialization,phone,email,experience,isAvailable
+"Dr. John Smith","Cardiology","+1-800-555-1001","doctor.1@queuecure.com",15,TRUE
+"Dr. Jane Johnson","Neurology","+1-800-555-1002","doctor.2@queuecure.com",10,TRUE
+"Dr. Robert Williams","General Medicine","+1-800-555-1003","doctor.3@queuecure.com",24,TRUE
+"Dr. Mary Brown","Dermatology","+1-800-555-1004","doctor.4@queuecure.com",8,FALSE
+"Dr. William Jones","Orthopedics","+1-800-555-1005","doctor.5@queuecure.com",31,TRUE
